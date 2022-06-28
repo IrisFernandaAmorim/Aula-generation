@@ -13,7 +13,7 @@ programa
 
 		equacao = (5*(valor2*valor2))+(7*valor2)-1      // Calcula a equação
 		
-		escreva("\nResultado da equação: ", equacao, "\n")  // Exibe os resultados
+		escreva("\nResultado da equação : ", equacao, "\n")  // Exibe os resultados
 	}
 }
 
@@ -22,7 +22,7 @@ programa
  * Esta seção do arquivo guarda informações do Portugol Studio.
  * Você pode apagá-la se estiver utilizando outro editor.
  * 
- * @POSICAO-CURSOR = 379; 
+ * @POSICAO-CURSOR = 331; 
  * @PONTOS-DE-PARADA = ;
  * @SIMBOLOS-INSPECIONADOS = ;
  * @FILTRO-ARVORE-TIPOS-DE-DADO = inteiro, real, logico, cadeia, caracter, vazio;

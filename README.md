@@ -1,2 +1,2 @@
 # Aulas-generation
-Aulas desenvolvidas no curso da Generation
+Aulas desenvolvidas no bootcamp da Generation (Formação em Desenvolvedora Java Jr.)
